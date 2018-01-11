@@ -1,0 +1,8 @@
+.social-buttons {
+	text-align:center;
+	padding:10px 0 10px 0;
+}
+.social-buttons div {
+	display:inline-block;
+	vertical-align:top;
+}
